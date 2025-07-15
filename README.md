@@ -10,7 +10,7 @@
 ### Projetos Destacados  
 - [Meu Primeiro Projeto de Dados](#) (em breve!)  
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?rubianaviana)  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rubianaviana&show_icons=true&theme=dark)  
 
 # Hello, I am Rubiana! 👋  
 
@@ -24,4 +24,4 @@
 ### Projects  
 - [Meu Primeiro Projeto de Dados](#) (em breve!)  
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?rubianaviana)  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rubianaviana&show_icons=true&theme=dark)  

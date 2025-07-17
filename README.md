@@ -2,7 +2,7 @@
 
 ### Psicóloga & Ma. em Sociologia Política | Analista de People Analytics | Pesquisadora no HDRI 
 
-🔭 **Atualmente trabalhando em:** [Projeto atual]  
+🔭 **Atualmente trabalhando em:** [já vou adicionar ;)]  
 🌱 **Aprendendo:**  SQL, Machine Learning  
 📊 **Ferramentas:** Python, Pandas, Numpy, Tableau, Excel  
 📫 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/rubiana-viana/), [E-mail](mailto:rubianaviana@gmail.com)  
@@ -16,12 +16,12 @@
 
 ### Psychologist & M.S.c. in Political Sociology |  People Analytics Analyst | Researcher @ HDRI 
 
-🔭 **Currently wornking on:** [Projeto atual]  
+🔭 **Currently wornking on:** [soon!]  
 🌱 **Learning:**  SQL, Machine Learning  
 📊 **Tools:** Python, Pandas, Numpy, Tableau, Excel  
 📫 **How to find me:** [LinkedIn](https://www.linkedin.com/in/rubiana-viana/), [E-mail](mailto:rubianaviana@gmail.com)  
 
 ### Projects  
-- [Meu Primeiro Projeto de Dados](#) (em breve!)  
+- [Meu Primeiro Projeto de Dados](#) (soon!)  
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rubianaviana&show_icons=true&theme=dark)  
